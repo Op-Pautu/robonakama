@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robonakama/static/css/main.eba17298.css",
+    "main.js": "/robonakama/static/js/main.980c1e66.js",
+    "static/media/SEGA.woff": "/robonakama/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robonakama/index.html",
+    "main.eba17298.css.map": "/robonakama/static/css/main.eba17298.css.map",
+    "main.980c1e66.js.map": "/robonakama/static/js/main.980c1e66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eba17298.css",
+    "static/js/main.980c1e66.js"
+  ]
+}
